@@ -1,0 +1,41 @@
+AWSApplicationMigrationServiceManaged,AWSApplicationMigrationServiceSourceServerID,AccountId,AccountName,Application Name,Application Owner,Application Owner Email ID,Application Owner,Application Owner Email ID,Backup,Dept,Environment,InstanceId,InstanceName,InstanceStatus,InternalIpAddress,Managed By,Name,Owner,PublicIP,Region,aws:ec2launchtemplate:id,aws:ec2launchtemplate:version,map-migrated
+,,463938152059,HDFCAMC-UAT,PMS wealthconnect,Pyush Khullar,pyushk@hdfcfund.com,,,Yes,PMS Operations,UAT,i-0f4e8bbcec503f0f7,VPMSWCUAT,stopped,10.93.43.82,CXIO,VPMSWCUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Digital Meeting,Umashankar,umashankarg@HDFCFUND.COM,,,Yes,Secretarial,UAT,i-0acc3a62427643131,VMFDDMUAT,stopped,10.93.43.80,CXIO,VMFDDMUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,PMS wealth spectrum,Pyush Khullar,pyushk@hdfcfund.com,,,Yes,PMS Operations,UAT,i-029ca8cfc17fd3abe,VMFPMSAPPUAT,stopped,10.93.32.100,CXIO,VMFPMSAPPUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,EPROXY,vimal bhanushali,vimalB@hdfcfund.com,,,Yes,Secretarial,UAT,i-04e1fa1c250499d2a,VMFEPROXYUAT,stopped,10.93.35.33,CXIO,VMFEPROXYUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,E-share dealing,Muttukumar Pillai,Mpillai@hdfcfund.com,,,Yes,Secretarial,UAT,i-03074c079a08a545b,VMFESOSUAT,stopped,10.93.43.104,CXIO,VMFESOSUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Sheetkraft,Bhargav Bhupati,bhargavbhupathi@quantumphinance.com,,,Yes,Operations,UAT,i-03c310a41b2f3c619,VMFSKF2DBUAT,running,10.93.36.142,CXIO,VMFSKF2DBUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+mgn.amazonaws.com,s-ef90e3a5956e8f12b,463938152059,HDFCAMC-UAT,Mpower,Awais,awais.alware@hexagram.in,,,Yes,Operations,Pre-Prod,i-057333a16f88b6c88,VMPOWER-PREPROD,running,10.93.32.21,CXIO,VMPOWER-PREPROD,,N/A,ap-south-1,lt-00ff8d72840f53df5,3,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,HAMC Portal,Srinivas Gade,srinivasg@hdfcfund.com,,,Yes,Fincon,UAT,i-011447c83a737e2ec,VMFFINCONDBUAT,running,10.93.36.157,CXIO,VMFFINCONDBUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Digital Meeting,Umashankar,umashankarg@HDFCFUND.COM,,,Yes,Secretarial,UAT,i-038c3fa25a11e84dc,VMFDDMDBUAT,stopped,10.93.39.197,CXIO,VMFDDMDBUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Shared-UAT,,,,,Yes,Information Technology,UAT,i-0873d319d348f0dfa,HDFC-AMC-Windows-2019-Test-Server,stopped,10.93.42.169,CXIO,HDFC-AMC-Windows-2019-Test-Server,username,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,E-share dealing,Muttukumar Pillai,Mpillai@hdfcfund.com,,,Yes,Secretarial,UAT,i-0ccc0419eb4e6e603,VMFESOSDBUAT,stopped,10.93.39.140,CXIO,VMFESOSDBUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Velox Compliance,Pooja Soni,poojaps@hdfcfund.com,,,Yes,Compliance,UAT,i-0d61ff56f50c357fa,VMFVCDBUAT,stopped,10.93.39.231,CXIO,VMFVCDBUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Bastion,,,,,,Information Technology,UAT,i-0086f90247e330bfd,Windows-Bastion-Server,stopped,10.93.43.41,CXIO,Windows-Bastion-Server,,52.66.7.55,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Velox Compliance,Pooja Soni,poojaps@hdfcfund.com,,,Yes,Compliance,UAT,i-0210b3d1d68e974ae,VMFVCAPPUAT,stopped,10.93.35.7,CXIO,VMFVCAPPUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Sheetkraft,Bhargav Bhupati,bhargavbhupathi@quantumphinance.com,,,Yes,Operations,UAT,i-08c9b884322990ae7,VMFSKFUAT,stopped,10.93.32.106,CXIO,VMFSKFUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,HAMC Portal,Srinivas Gade,srinivasg@hdfcfund.com,,,Yes,Fincon,UAT,i-067b0472d17720b92,VMFFINCONAPPUAT,running,10.93.32.55,CXIO,VMFFINCONAPPUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,IFLOW,Rashmita Prajapati,rashmitap@hdfcfund.com,,,Yes,Compliance,UAT,i-01601249891a741af,VMFIFLOWUAT,stopped,10.93.35.26,CXIO,VMFIFLOWUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Trill cash high value,Vaibhav Joshi,vaibhavj@hdfcfund.com,,,Yes,Operations,UAT,i-0680975a42c78047b,VMFAPPSUAT,stopped,10.93.32.11,CXIO,VMFAPPSUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Mpower,Awais,awais.alware@hexagram.in,,,Yes,Operations,UAT,i-0cb4d9c39712c4463,VMPOWERUAT,running,10.93.32.57,CXIO,VMPOWERUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,Bankconsole,Vaibhav Joshi,vaibhavj@hdfcfund.com,,,Yes,Operations,UAT,i-041e5ca418519be0b,BANKCONSOLEUAT,stopped,10.93.36.156,CXIO,BANKCONSOLEUAT,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,NFC Business,,,,,Yes,Marketing,UAT,i-07b6d949f3387b0e8,NFCALTUAT-Linux,running,10.93.35.78,CXIO,NFCALTUAT-Linux,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,Sheetkraft,,,,,Yes,Operations,UAT,i-048e018b9df2b3c6a,AWSSKFUAT1-UAT,running,10.93.32.110,CXIO,AWSSKFUAT1-UAT,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,NISM,,,,,Yes,Compliance,UAT,i-0008c9ca641a2d020,VMFNISM-NEW,stopped,10.93.35.72,CXIO,VMFNISM-NEW,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,HAMC Portal,,,,,Yes,Fincon,UAT,i-0a477961c33ebe100,AWSFINCONDZ,stopped,10.93.35.15,CXIO,AWSFINCONDZ,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,Shared-UAT,,,,,Yes,Information Security,UAT,i-0f2aaa4ba57a484c0,ZscalerApp,stopped,10.93.42.226,CXIO,ZscalerApp,,15.206.17.99,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,Talisma,,,,,Yes,Client Service,UAT,i-09a6e0e1f77e97fed,AWSCRMDBUAT,running,10.93.38.8,CXIO,AWSCRMDBUAT,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,Talisma,,,Sandhya,sandhyag@HDFCFUND.COM,Yes,Client Service,UAT,i-05cbb924228b2ae95,Talisma-CRM1,running,10.93.33.194,CXIO,Talisma-CRM1,,N/A,ap-south-1,,,d-server-02f7svklm3kxv6
+,,463938152059,HDFCAMC-UAT,NISM,,,,,Yes,Compliance,UAT,i-0843993ddf989f0f3,VMFNISMUAT-16-12-2023,stopped,10.93.35.18,CXIO,VMFNISMUAT-16-12-2023,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-09463dab59c16a87e,Amazon-Linux-2-ARM-based-for-hardening,stopped,10.93.32.51,CXIO,Amazon-Linux-2-ARM-based-for-hardening,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-06f62d09a5b9d3487,NFCALTUAT-Linux-New-01-02-2024,stopped,10.93.35.58,CXIO,NFCALTUAT-Linux-New-01-02-2024,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-0de20e08c9a9ee614,PIT-Software-Web-API-server,running,10.93.32.103,CXIO,PIT-Software-Web-API-server,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-014502422d37ea38f,PIT-Software-Application-server,running,10.93.32.105,CXIO,PIT-Software-Application-server,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-04a27eb7dea2ab744,Rsutra-NodeJS-UAT,running,10.93.32.66,CXIO,Rsutra-NodeJS-UAT,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-07d721b21e0587f7f,Rsutra-PostgreSQL-UAT,running,10.93.36.193,CXIO,Rsutra-PostgreSQL-UAT,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-0784e031f15ac6029,PIT-Software-mssql-2019,running,10.93.36.194,CXIO,PIT-Software-mssql-2019,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-09c0885f9a69967e3,Zeffo-Jenkins-Server,running,10.93.33.241,CXIO,Zeffo-Jenkins-Server,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-093d767307b16dc86,Zeffo-App-Server,running,10.93.32.12,CXIO,Zeffo-App-Server,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-0ea79d4797ebc014d,HDFC-AIF-Website,running,10.93.44.5,CXIO,HDFC-AIF-Website,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-09cb3888cf64f87cc,aif bastion,stopped,10.93.43.89,CXIO,aif bastion,,N/A,ap-south-1,,,
+,,463938152059,HDFCAMC-UAT,,,,,,,,,i-08f77cb3f1aec5cd5,Zeffo-web-server,running,10.93.32.26,CXIO,Zeffo-web-server,,N/A,ap-south-1,,,
